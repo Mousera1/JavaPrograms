@@ -1,10 +1,10 @@
-1) PalindromeChecker
+PalindromeChecker
 ------------------------
 output:
 Enter a string: noon
 Yes
 
-2) ReverseString
+2)ReverseString
 -----------------------
 output:
 ReverseString
