@@ -1,13 +1,16 @@
 1) PalindromeChecker
+------------------------
 output:
 Enter a string: noon
 Yes
 
 2) ReverseString
+-----------------------
 output:
 ReverseString
 
 3)PatternNumbers 
+--------------------
 output:
 1 
 2 3 
@@ -15,6 +18,7 @@ output:
 7 8 9 10 
 
 4)PatternNumbers
+-------------------
 output:
 *   *
  * * 
@@ -23,12 +27,14 @@ output:
 *   *
 
 5)GradeProgram
+--------------
 output:
 Enter the marks scored by the student:
 90
 Grade: A
 
 6)TariffProgram
+---------------------
 output:
 Enter the month:
 2
