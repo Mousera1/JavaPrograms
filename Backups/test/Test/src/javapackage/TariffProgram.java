@@ -16,7 +16,7 @@ public class TariffProgram {
 		int numberofdays = scanner.nextInt();
 
 		double totalTariff = calculateTariff(month, roomrent, numberofdays);
-		System.out.printf("Hotel tariff: ", totalTariff);
+		System.out.println(totalTariff);
 	}
 
 	public static double calculateTariff(int month, double roomrent, int numberofdays) {
