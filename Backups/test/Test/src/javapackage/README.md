@@ -1,4 +1,4 @@
-PalindromeChecker
+1)PalindromeChecker
 ------------------------
 output:
 Enter a string: noon
