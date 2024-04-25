@@ -7,7 +7,8 @@ Yes
 2)ReverseString
 -----------------------
 output:
-ReverseString
+Enter a string: guvi
+Reversed string: ivug
 
 3)PatternNumbers 
 --------------------
